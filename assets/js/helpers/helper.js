@@ -8,7 +8,7 @@ class Helper {
     }
 
     getHttp() {
-        return 'http://localhost/api/';
+        return 'https://gila-app.herokuapp.com/api/';
     }
 
     getData() {
